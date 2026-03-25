@@ -1,5 +1,5 @@
 ## Hello, I'm Garrett.
 
-<div align="left">
+<div align="center">
   <img alt="top langs" src="https://gnix22-readme-stats.vercel.app/api/top-langs/?username=gnix22&langs_count=8&layout=compact&exclude_repo=gnix22-readme-stats,github-readme-stats&hide=jupyter%20notebook&theme=dark"/>
 </div>
